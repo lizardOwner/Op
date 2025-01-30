@@ -17,7 +17,7 @@ PAYMENT_QR_CODE = "qr.png"  # QR code image file
 
 # User access storage (in-memory, replace with a database for production)
 user_access = {6}
-admin_users = set(1)
+admin_users = set()
 
 # Filters storage
 filters_dict = {}
